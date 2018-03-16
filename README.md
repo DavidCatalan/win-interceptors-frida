@@ -1,5 +1,11 @@
-# x86-frida-hooks
+# Windows API Interceptors for Frida
 
-## //TODO: Everything
+Windows API replacements for Frida tools.
 
-We are going to cut our venitas.
+(https://wwww.frida.re)
+
+## Pre-requisites
+
+- Node.js
+- Frida
+
