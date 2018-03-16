@@ -2,10 +2,9 @@
 
 Windows API replacements for Frida tools.
 
-(https://wwww.frida.re)
+(https://www.frida.re)
 
 ## Pre-requisites
 
-- Node.js
+- Node.js > 7.6
 - Frida
-
